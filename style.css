@@ -310,8 +310,11 @@ header{
     linear-gradient(rgba(190, 190, 190, 0.55), rgba(190, 190, 190,0.55)),
     url(https://static.adoric.com/1585414561268_am18ilpo2mr/11219.png);
     background-position: center;
+    background-repeat: no-repeat;
     margin-top: 70px;
-    height: 300px;
+    padding-bottom: 30px;
+    padding-top: 40px;
+    height: auto;
     width: auto;
 }
 .footer {
